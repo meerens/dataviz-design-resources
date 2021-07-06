@@ -1,15 +1,20 @@
 This repository contains a collection of my resource pages created in [Craft](https://www.craft.do/)
 
-### Tableau
+If you have any suggestions for content I should add, please [raise an issue](https://github.com/meerens/dataviz-design-resources/issues/new) so I can review and add to my resource pages if relevant.
 
-🔗 [Calculations](https://www.craft.do/s/jKXJLUwCmkImd2) (General, Dates, Spatial, Regex, Table Calculations, Level of Detail Calculations, Troubleshooting)
+### `Tableau`
 
-### Design
+🔗 [Calculations](https://www.craft.do/s/jKXJLUwCmkImd2)
+<br> topics: general, dates, spatial, regex, table calculations, level of detail calculations, troubleshooting
 
-🔗 [My Figma Toolkit](https://www.craft.do/s/hFAdcKkSmy4cI2) (Learning Figma, Figma & Tableau, Plugins, Kits, Blogs)
+### `Design`
 
-### Data
+🔗 [My Figma Toolkit](https://www.craft.do/s/hFAdcKkSmy4cI2)
+<br> topics: learning figma, figma & tableau, plugins, kits, blogs
 
-🔗 [Data Resources](https://www.craft.do/s/VEG2AoReVFdC4E) (Topical, Catalogs & Lists, Fake Data)
+### `Data`
 
-### Coding
+🔗 [Data Resources](https://www.craft.do/s/VEG2AoReVFdC4E)
+<br> topical, catalogs & lists, fake data
+
+### `Coding`
