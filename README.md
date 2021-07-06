@@ -4,17 +4,17 @@ If you have any suggestions for content I should add, please [raise an issue](ht
 
 ### `Tableau`
 
-🔗 [Calculations](https://www.craft.do/s/jKXJLUwCmkImd2)
+[Calculations](https://www.craft.do/s/jKXJLUwCmkImd2)
 <br> topics: general, dates, spatial, regex, table calculations, level of detail calculations, troubleshooting
 
 ### `Design`
 
-🔗 [My Figma Toolkit](https://www.craft.do/s/hFAdcKkSmy4cI2)
+[My Figma Toolkit](https://www.craft.do/s/hFAdcKkSmy4cI2)
 <br> topics: learning figma, figma & tableau, plugins, kits, blogs
 
 ### `Data`
 
-🔗 [Data Resources](https://www.craft.do/s/VEG2AoReVFdC4E)
-<br> topical, catalogs & lists, fake data
+[Data Resources](https://www.craft.do/s/VEG2AoReVFdC4E)
+<br> topics: topical, catalogs & lists, fake data
 
 ### `Coding`
