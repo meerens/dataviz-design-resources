@@ -10,14 +10,12 @@ This repository contains the full collection of my resource pages created in [Cr
 ### `Design`
 
 [My Figma Toolkit](https://www.craft.do/s/hFAdcKkSmy4cI2)
-<br> topics: learning figma, figma & tableau, plugins, kits, blogs, design systems in figma
+<br> topics: learning figma, figma & tableau, plugins (accessibility, colour, editing & effects, images & icons, prototyping, tools, visual design), kits, blogs, design systems in figma
 
 [Style Guides & Design Systems](https://www.craft.do/s/W5HqQGfJMIecko)
-<br> topics: dataviz style guides, styleguides & design system for tableau, design systems, accessibility
+<br> topics: dataviz style guides, styleguides & design system for tableau, design systems, accessibility, equity awareness
 
 ### `Data`
 
 [Data Sources](https://www.craft.do/s/VEG2AoReVFdC4E)
 <br> topics: topical, catalogs & lists, fake data
-
-### `Coding`
