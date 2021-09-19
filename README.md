@@ -15,6 +15,9 @@ This repository contains the full collection of my resource pages created in [Cr
 [Style Guides & Design Systems](https://www.craft.do/s/W5HqQGfJMIecko)
 <br> topics: dataviz style guides, styleguides & design system for tableau, design systems, accessibility, equity awareness
 
+[Colour](https://www.craft.do/s/N4cO1cw2Zbio32)
+<br> topics: create palettes, palettes & combinations, accessibility, tableau, more inspiration, blogs, colour & gender, colour & accesibility
+
 ### `Data`
 
 [Data Sources](https://www.craft.do/s/VEG2AoReVFdC4E)
