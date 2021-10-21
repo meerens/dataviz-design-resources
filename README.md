@@ -5,7 +5,7 @@ This repository contains the full collection of my resource pages created in [Cr
 ### `Coding`
 
 [SQL](https://www.craft.do/s/VzvaPiNX6jvxX5)
-<br> topics: learning, practice, tools
+<br> topics: learning, read, practice, tools
 
 ### `Tableau`
 
