@@ -2,6 +2,11 @@ Greetings 👋🏼 - my name is Marian and I like collecting useful resources an
 
 This repository contains the full collection of my resource pages created in [Craft](https://www.craft.do/) and is a work in progress. Should you have any suggestions for content I should add, I invite you to [raise an issue](https://github.com/meerens/dataviz-design-resources/issues/new) so I can review and add to my collection if relevant.
 
+### `Coding`
+
+[SQL](https://www.craft.do/s/VzvaPiNX6jvxX5)
+<br> topics: learning, practice, tools
+
 ### `Tableau`
 
 [Calculations](https://www.craft.do/s/jKXJLUwCmkImd2)
