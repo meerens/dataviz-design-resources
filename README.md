@@ -14,14 +14,17 @@ This repository contains the full collection of my resource pages created in [Cr
 
 ### `Design`
 
+[Colour](https://www.craft.do/s/N4cO1cw2Zbio32)
+<br> topics: create palettes, palettes & combinations, accessibility, tableau, more inspiration, blogs, colour & gender, colour & accesibility
+
 [My Figma Toolkit](https://www.craft.do/s/hFAdcKkSmy4cI2)
 <br> topics: learning figma, figma & tableau, plugins (accessibility, colour, editing & effects, images & icons, prototyping, tools, visual design), kits, blogs, design systems in figma
 
 [Style Guides & Design Systems](https://www.craft.do/s/W5HqQGfJMIecko)
 <br> topics: dataviz style guides, styleguides & design system for tableau, design systems, accessibility, equity awareness
 
-[Colour](https://www.craft.do/s/N4cO1cw2Zbio32)
-<br> topics: create palettes, palettes & combinations, accessibility, tableau, more inspiration, blogs, colour & gender, colour & accesibility
+[Typography](https://www.craft.do/s/O6LpIXUCtDJvNl)
+<br> topics: free & open source fonts, foundries, inspiration, read & learn, toolkit, symbols & characters
 
 ### `Data`
 
