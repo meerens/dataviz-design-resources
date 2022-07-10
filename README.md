@@ -2,10 +2,20 @@ Greetings 👋🏼 - my name is Marian and I like collecting useful resources an
 
 This repository contains the full collection of my resource pages created in [Craft](https://www.craft.do/) and is a work in progress. Should you have any suggestions for content I should add, I invite you to [raise an issue](https://github.com/meerens/dataviz-design-resources/issues/new) so I can review and add to my collection if relevant.
 
-### `Coding`
+### `Data`
 
 [SQL](https://www.craft.do/s/VzvaPiNX6jvxX5)
 <br> topics: learning, read, practice, tools
+
+[Snowflake](https://www.craft.do/s/H00FbSCxiJnHBS)
+<br> topics: videos, trial account, hands-on labs, on demand learnin, ebooks
+
+[BigQuery](https://www.craft.do/s/r9YneljWHefSlg)
+<br> topics: google documentation & learning, video tutorials, blogs, SQL snippets
+
+[Data Sources](https://www.craft.do/s/VEG2AoReVFdC4E)
+<br> topics: topical, catalogs & lists, fake data
+
 
 ### `Tableau`
 
@@ -25,8 +35,3 @@ This repository contains the full collection of my resource pages created in [Cr
 
 [Typography](https://www.craft.do/s/O6LpIXUCtDJvNl)
 <br> topics: free & open source fonts, foundries, inspiration, read & learn, toolkit, symbols & characters
-
-### `Data`
-
-[Data Sources](https://www.craft.do/s/VEG2AoReVFdC4E)
-<br> topics: topical, catalogs & lists, fake data
