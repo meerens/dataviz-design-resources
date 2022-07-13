@@ -4,22 +4,19 @@ This repository contains the full collection of my resource pages created in [Cr
 
 ### `Data`
 
-[SQL](https://www.craft.do/s/VzvaPiNX6jvxX5)
+[Getting started with SQL](https://www.craft.do/s/VzvaPiNX6jvxX5)
 <br> topics: learning, read, practice, tools
 
-[Snowflake](https://www.craft.do/s/H00FbSCxiJnHBS)
-<br> topics: videos, trial account, hands-on labs, on demand learnin, ebooks
+[Getting started with Snowflake](https://www.craft.do/s/H00FbSCxiJnHBS)
+<br> topics: videos, trial account, hands-on labs, on demand learning, ebooks
 
-[BigQuery](https://www.craft.do/s/r9YneljWHefSlg)
-<br> topics: google documentation & learning, video tutorials, blogs, SQL snippets
+[Getting started with BigQuery](https://www.craft.do/s/r9YneljWHefSlg)
+<br> topics: google documentation & learning materials, video tutorials, blogs, SQL snippets
 
 [Data Sources](https://www.craft.do/s/VEG2AoReVFdC4E)
 <br> topics: topical, catalogs & lists, fake data
 
-
-### `Tableau`
-
-[Calculations](https://www.craft.do/s/jKXJLUwCmkImd2)
+[Tableau Calculations](https://www.craft.do/s/jKXJLUwCmkImd2)
 <br> topics: general, dates, spatial, regex, table calculations, level of detail calculations, troubleshooting
 
 ### `Design`
