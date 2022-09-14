@@ -5,13 +5,13 @@ This repository contains the full collection of my resource pages created in [Cr
 ### `Data`
 
 [Getting started with SQL](https://www.craft.do/s/VzvaPiNX6jvxX5)
-<br> topics: learning, read, practice, tools
+<br> topics: learning tutorials & video series, about databases, blogs & cheat sheets, read, practice environments, useful tools & repositories
 
 [Getting started with Snowflake](https://www.craft.do/s/H00FbSCxiJnHBS)
-<br> topics: videos, trial account, hands-on labs, on demand learning, ebooks
+<br> topics: videos, trial account, hands-on labs, on demand learning, ebooks, blog series
 
 [Getting started with BigQuery](https://www.craft.do/s/r9YneljWHefSlg)
-<br> topics: google documentation & learning materials, video tutorials, blogs, SQL snippets
+<br> topics: google documentation & tutorials, google sandbox & free tier, google free course content & turorials, other tutorials & course content, blogs, SQL snippets
 
 [Data Sources](https://www.craft.do/s/VEG2AoReVFdC4E)
 <br> topics: topical, catalogs & lists, fake data
