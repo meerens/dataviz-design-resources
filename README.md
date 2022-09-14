@@ -28,4 +28,4 @@ This repository contains the full collection of my resource pages created in [Cr
 <br> topics: learning figma, figma & tableau, plugins (accessibility, colour, editing & effects, images & icons, prototyping, tools, visual design), kits, blogs, design systems in figma
 
 [Typography](https://www.craft.do/s/O6LpIXUCtDJvNl)
-<br> topics: free & open source fonts, foundries, inspiration, read & learn, toolkit, symbols & characters
+<br> topics: free & open source fonts, foundries, inspiration, read & learn, read & learn: typography in data visualization, quick tips, toolkit, symbols & characters
